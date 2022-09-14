@@ -1,0 +1,60 @@
+/* Reset CSS (JANGAN DIHAPUS) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+/* Ketik code Anda dibawah */
+.container
+{
+  height: 90px;
+  background-color:#26d0c9;
+  color:white;
+}
+
+.container h1
+{
+  font-size:36px;
+  font-weight:normal;
+  float:left;
+  padding: 20px 40px;
+}
+
+.container li
+{
+  float:left;
+  padding: 33px 20px;
+}
+
+.title-text
+{
+  margin-top: 100px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.title-text h1
+{
+  font-size:140px;
+}
+
+.title-text span
+{
+  color: red;
+}
+
+.title-text h2
+{
+  font-size:60px;
+}
